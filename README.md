@@ -6,7 +6,7 @@ These projects are designed to help new Python programmers get started with the 
 Right now, the projects are still a work in progress, but I'm aiming to have them all completed by December 2025.
 The projects cover a range of topics on python basics.
 
-# Lists of projects included
+# Projects included
 -Tip Calculator
 -Band Name Generator
 -To-Do List App
