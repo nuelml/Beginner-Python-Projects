@@ -6,7 +6,7 @@ def tip_calc():
     if tip_amount in [5, 10, 15]:
         tip_percentage = (tip_amount/100) * bill_amount
         total_bill = tip_percentage + bill_amount
-        print(f"Your total bill is:${round(total_bill)}.")
+        print(f"Your total bill is:${round(total_bill, 2)}.")
         
     else:
         print("Enter a valid tip!")
